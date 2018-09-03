@@ -1,12 +1,16 @@
 ## Short Bio
 
-Computer Science and Political Science student at Duke University. Fellow at [Interact](http://joininteract.com). Cyber Policy Researcher at the [Laboratory for Analytic Sciences](https://ncsu-las.org/about/). Co-Founder and Vice President of [Ethical Tech](https://ethical-tech.org/).
+Computer Science and Political Science student at Duke University. Fellow at [Interact](http://joininteract.com). Cyber Policy Researcher at the [Laboratory for Analytic Sciences](https://ncsu-las.org/about/). Co-Founder and President of [Duke University Cyber](https://ags.duke.edu/engage/cyber-team/). Co-Founder and Vice President of [Ethical Tech](https://ethical-tech.org/).
 
-Former Fellow with the [Duke University Program in American Grand Strategy](http://ags.duke.edu/). Formerly with [New America's Cybersecurity Initiative](https://www.newamerica.org/cybersecurity-initiative/) and [The State of Security](https://tripwire.com/state-of-security). Regularly writing for [Real Clear Defense](https://realcleardefense.com/), [The Startup](http://medium.com/swlh), and others.
+Former Fellow with the [Duke University Program in American Grand Strategy](http://ags.duke.edu/). Formerly with [New America's Cybersecurity Initiative](https://www.newamerica.org/cybersecurity-initiative/) and [The State of Security](https://tripwire.com/state-of-security). Regularly writing for [Real Clear Defense](https://realcleardefense.com/), [The Startup](http://medium.com/swlh), and others. Currently teaching [Cyber and Global Security](https://trinity.duke.edu/house-courses/cyber-and-global-security) at Duke.
+
+Focused on cyber policy and technology ethics.
 
 ## Recent Publications
 
+"[The Bail System is Racist and Unjust. It Needs to Be Reformed](https://www.realclearpolicy.com/articles/2018/08/17/the_bail_system_is_racist_and_unjust_it_needs_to_be_reformed_110764.html)," _Real Clear Policy_, August 17 2018, with Leah Abrams.
 
+"[The US Military Just Partially Banned Geolocatable Cellphones. That’s a Start](https://www.defenseone.com/ideas/2018/08/internet-things-national-security-problem/150301/?oref=d-river)," _Defense One_, August 6 2018.
 
 
 You can use the [editor on GitHub](https://github.com/justinsherman/justinsherman.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
