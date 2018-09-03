@@ -4,7 +4,7 @@ Student at Duke University. Fellow at [Interact](http://joininteract.com). Cyber
 
 Former Fellow with the [Duke University Program in American Grand Strategy](http://ags.duke.edu/). Formerly with [New America's Cybersecurity Initiative](https://www.newamerica.org/cybersecurity-initiative/) and [Tripwire](https://tripwire.com/state-of-security). Regularly writing for [_Real Clear Defense_](https://realcleardefense.com/), [_The Startup_](http://medium.com/swlh), and others. Currently teaching [Cyber and Global Security](https://trinity.duke.edu/house-courses/cyber-and-global-security) at Duke.
 
-Focused on cyber policy and technology ethics. Recently featured in [_POLITICO_](https://www.politico.com/newsletters/morning-cybersecurity/2018/07/26/dhs-plots-multiple-cyber-initiatives-297736) and [Morning Consult](https://morningconsult.com/briefs/tech-brief-sen-claire-mccaskill-confirms-unsuccessful-russian-hacking-attempt-against-her-office/) and quoted by [Venafi](https://www.venafi.com/blog/https-should-be-implemented-everywhereincluding-static-websites).
+Recently featured in [_POLITICO_](https://www.politico.com/newsletters/morning-cybersecurity/2018/07/26/dhs-plots-multiple-cyber-initiatives-297736) and [Morning Consult](https://morningconsult.com/briefs/tech-brief-sen-claire-mccaskill-confirms-unsuccessful-russian-hacking-attempt-against-her-office/) and quoted by [Venafi](https://www.venafi.com/blog/https-should-be-implemented-everywhereincluding-static-websites). Passionately focused on cyber policy and technology ethics.
 
 ## Recent Publications
 
@@ -21,6 +21,8 @@ Focused on cyber policy and technology ethics. Recently featured in [_POLITICO_]
 "[Why We Started Ethical Tech](https://ethical-tech.org/blog-feed/2018/8/9/why-we-started-ethical-tech)," Ethical Tech, August 9 2018, with Cassi Carley.
 
 "[The US Military Just Partially Banned Geolocatable Cellphones. That’s a Start](https://www.defenseone.com/ideas/2018/08/internet-things-national-security-problem/150301/?oref=d-river)," _Defense One_, August 6 2018.
+
+“[What Policymakers Need to Know About Quantum Computing](https://www.cfr.org/blog/what-policymakers-need-know-about-quantum-computing),” Council on Foreign Relations, July 31 2018, with Robert Morgus.
 
 ## Featured Work
 
