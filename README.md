@@ -18,7 +18,17 @@ Focused on cyber policy and technology ethics.
 
 "[Alert Fatigue is a Big Cybersecurity Problem](https://www.tripwire.com/state-of-security/security-data-protection/alert-fatigue-is-a-big-cybersecurity-problem/)," _The State of Security_, August 13 2018, with Nick Santora.
 
+"[Why We Started Ethical Tech](https://ethical-tech.org/blog-feed/2018/8/9/why-we-started-ethical-tech)," Ethical Tech, August 9 2018, with Cassi Carley.
+
 "[The US Military Just Partially Banned Geolocatable Cellphones. That’s a Start](https://www.defenseone.com/ideas/2018/08/internet-things-national-security-problem/150301/?oref=d-river)," _Defense One_, August 6 2018.
+
+## Featured Work
+
+In the summer of 2018, Ethical Tech became one of the first organizations in the country to train active judges on the machine learning processes and algorithmic bias behind so-called risk assessment algorithms (RAAs), prejudiced recividism predictors used in state courts across the country to recommend bail amounts and prison sentences to judges. RAAs are amplifying existing inequalities under the veil of digital objectivity. Check out the full description of the [Algorithms and Justice Project](https://ethical-tech.org/projects/).
+
+Robert Morgus and I recently co-created the first robust framework for liberal-democratic policymakers to understand the global Internet. Check out the full paper, "[The Idealized Internet vs. Internet Realities (Version 1.0)](https://s3.amazonaws.com/newamericadotorg/documents/The_Idealized_Internet_vs._Internet_Realities_Version_1.0_2018-07-25_203930.pdf)," and see our corresponding op-ed for [_New America Weekly_](https://www.newamerica.org/weekly/edition-213/tale-two-internets/) and [_Pacific Standard_](https://psmag.com/news/protecting-an-open-internet).
+
+Deb Crawford and I created the first comprehensive assessment of all U.S. federal policies that either directly address or tangentially implicate federal use of the Internet of Things. Read the paper in [_Journal of Cyber Policy_](https://www.tandfonline.com/doi/full/10.1080/23738871.2018.1514061).
 
 
 You can use the [editor on GitHub](https://github.com/justinsherman/justinsherman.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
