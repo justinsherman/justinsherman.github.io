@@ -1,4 +1,4 @@
-## Short Bio
+## Bio
 
 Computer Science and Political Science student at Duke University. Fellow at [Interact](http://joininteract.com). Cyber Policy Researcher at the [Laboratory for Analytic Sciences](https://ncsu-las.org/about/). Co-Founder and President of [Duke University Cyber](https://ags.duke.edu/engage/cyber-team/). Co-Founder and Vice President of [Ethical Tech](https://ethical-tech.org/).
 
