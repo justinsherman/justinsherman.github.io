@@ -1,6 +1,6 @@
 ## Bio
 
-Computer Science and Political Science student at Duke University. Fellow at [Interact](http://joininteract.com). Cyber Policy Researcher at the [Laboratory for Analytic Sciences](https://ncsu-las.org/about/). Co-Founder and President of [Duke University Cyber](https://ags.duke.edu/engage/cyber-team/). Co-Founder and Vice President of [Ethical Tech](https://ethical-tech.org/).
+Student at Duke University: Computer Science (BS) and Political Science (BA). Fellow at [Interact](http://joininteract.com). Cyber Policy Researcher at the [Laboratory for Analytic Sciences](https://ncsu-las.org/about/). Co-Founder and President of [Duke University Cyber](https://ags.duke.edu/engage/cyber-team/). Co-Founder and Vice President of [Ethical Tech](https://ethical-tech.org/).
 
 Former Fellow with the [Duke University Program in American Grand Strategy](http://ags.duke.edu/). Formerly with [New America's Cybersecurity Initiative](https://www.newamerica.org/cybersecurity-initiative/) and [The State of Security](https://tripwire.com/state-of-security). Regularly writing for [Real Clear Defense](https://realcleardefense.com/), [The Startup](http://medium.com/swlh), and others. Currently teaching [Cyber and Global Security](https://trinity.duke.edu/house-courses/cyber-and-global-security) at Duke.
 
