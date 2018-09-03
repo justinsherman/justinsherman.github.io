@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Bio
+
+Computer Science and Political Science student at Duke University. Fellow at [Interact](http://joininteract.com). Co-Founder and Vice President of [Ethical Tech](https://ethical-tech.org/). Former Fellow with the [Duke University Program in American Grand Strategy](http://ags.duke.edu/).
 
 You can use the [editor on GitHub](https://github.com/justinsherman/justinsherman.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
