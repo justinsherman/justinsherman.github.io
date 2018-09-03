@@ -4,7 +4,7 @@ Student at Duke University. Fellow at [Interact](http://joininteract.com). Cyber
 
 Former Fellow with the [Duke University Program in American Grand Strategy](http://ags.duke.edu/). Formerly with [New America's Cybersecurity Initiative](https://www.newamerica.org/cybersecurity-initiative/) and [Tripwire](https://tripwire.com/state-of-security). Regularly writing for [_Real Clear Defense_](https://realcleardefense.com/), [_The Startup_](http://medium.com/swlh), and others. Currently teaching [Cyber and Global Security](https://trinity.duke.edu/house-courses/cyber-and-global-security) at Duke.
 
-Recently featured in [_POLITICO_](https://www.politico.com/newsletters/morning-cybersecurity/2018/07/26/dhs-plots-multiple-cyber-initiatives-297736) and [Morning Consult](https://morningconsult.com/briefs/tech-brief-sen-claire-mccaskill-confirms-unsuccessful-russian-hacking-attempt-against-her-office/) and quoted by [Venafi](https://www.venafi.com/blog/https-should-be-implemented-everywhereincluding-static-websites). Passionate about cyber policy and technology ethics.
+Recently featured in [_POLITICO_](https://www.politico.com/newsletters/morning-cybersecurity/2018/07/26/dhs-plots-multiple-cyber-initiatives-297736) and [Morning Consult](https://morningconsult.com/briefs/tech-brief-sen-claire-mccaskill-confirms-unsuccessful-russian-hacking-attempt-against-her-office/) and quoted by [Venafi](https://www.venafi.com/blog/https-should-be-implemented-everywhereincluding-static-websites). Passionate about cyber policy and technology ethics - really, making the digital world a better place.
 
 ## Recent Publications
 
@@ -26,7 +26,7 @@ Recently featured in [_POLITICO_](https://www.politico.com/newsletters/morning-c
 
 ## Featured Work
 
-In the summer of 2018, Ethical Tech became one of the first organizations in the country to train active judges on the machine learning processes and algorithmic bias behind so-called risk assessment algorithms (RAAs), prejudiced recividism predictors used in state courts across the country to recommend bail amounts and prison sentences to judges. RAAs are amplifying existing inequalities under the veil of digital objectivity. Check out the full description of the [Algorithms and Justice Project](https://ethical-tech.org/projects/).
+In the summer of 2018, Ethical Tech became one of the first organizations in the country to train active judges on the machine learning processes and algorithmic bias behind so-called risk assessment algorithms (RAAs), prejudiced recividism predictors used in state courts across the country to recommend bail amounts and prison sentences to judges. RAAs are amplifying existing inequalities under the veil of digital objectivity. Check out the full description of the [Algorithms and Justice Project](https://ethical-tech.org/projects/) to learn more. We're also developing the country's first open-sourced "Ethical Tech 101" college class.
 
 Inés Jordan-Zoob and I wrote an essay for _SIGNAL_ Magazine, "[Hands-Off Weaponry Requires Hands-On Planning](https://afcea.org/content/hands-weaponry-requires-hands-planning)," which was nominated for their best contributed article of the year. We discussed the ethics of semi-autonomous and fully autonomous weaponry in the global context.
 
