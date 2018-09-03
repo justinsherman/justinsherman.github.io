@@ -26,7 +26,7 @@ Recently featured in [_POLITICO_](https://www.politico.com/newsletters/morning-c
 
 ## Featured Work
 
-Ethical Tech recently became one of the first organizations in the country to train active judges on the machine learning processes and algorithmic bias behind so-called risk assessment algorithms (RAAs), prejudiced recidivism predictors used in state courts across the country to recommend bail amounts and prison sentences to judges. RAAs are amplifying existing inequalities under the veil of digital objectivity. Check out the full description of the [Algorithms and Justice Project](https://ethical-tech.org/projects/) to learn more.
+Ethical Tech recently became one of the first organizations in the country to train active judges on the machine learning processes and algorithmic bias behind so-called risk assessment algorithms (RAAs), prejudiced recidivism predictors used in state courts across the country to recommend bail amounts and prison sentences to judges. RAAs are amplifying existing inequalities under the veil of digital objectivity. Read more about our [Algorithms and Justice Project](https://ethical-tech.org/projects/).
 
 Inés Jordan-Zoob and I wrote an essay for _SIGNAL_ Magazine, "[Hands-Off Weaponry Requires Hands-On Planning](https://afcea.org/content/hands-weaponry-requires-hands-planning)," which was nominated for their best contributed article of the year. We discussed the ethics of semi-autonomous and fully autonomous weaponry in the global context.
 
