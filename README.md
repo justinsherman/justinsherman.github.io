@@ -28,7 +28,7 @@ Recently featured in [_POLITICO_](https://www.politico.com/newsletters/morning-c
 
 In the summer of 2018, Ethical Tech became one of the first organizations in the country to train active judges on the machine learning processes and algorithmic bias behind so-called risk assessment algorithms (RAAs), prejudiced recividism predictors used in state courts across the country to recommend bail amounts and prison sentences to judges. RAAs are amplifying existing inequalities under the veil of digital objectivity. Check out the full description of the [Algorithms and Justice Project](https://ethical-tech.org/projects/).
 
-Inés Jordan-Zoob and I wrote an essay for _SIGNAL_ Magazine, "[Hands-Off Weaponry Requires Hands-On Planning]," which was nominated for their best contributed article of the year.
+Inés Jordan-Zoob and I wrote an essay for _SIGNAL_ Magazine, "[Hands-Off Weaponry Requires Hands-On Planning](https://afcea.org/content/hands-weaponry-requires-hands-planning)," which was nominated for their best contributed article of the year. We discussed the ethics of semi-autonomous and fully autonomous weaponry in both existing and emerging areas.
 
 Robert Morgus and I created the first robust framework for liberal-democratic policymakers to understand the global Internet. Check out the full paper, "[The Idealized Internet vs. Internet Realities (Version 1.0)](https://s3.amazonaws.com/newamericadotorg/documents/The_Idealized_Internet_vs._Internet_Realities_Version_1.0_2018-07-25_203930.pdf)," and see our corresponding op-ed for [_New America Weekly_](https://www.newamerica.org/weekly/edition-213/tale-two-internets/) and [_Pacific Standard_](https://psmag.com/news/protecting-an-open-internet).
 
