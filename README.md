@@ -1,6 +1,13 @@
-## Bio
+## Short Bio
 
-Computer Science and Political Science student at Duke University. Fellow at [Interact](http://joininteract.com). Co-Founder and Vice President of [Ethical Tech](https://ethical-tech.org/). Cyber Policy Researcher at the [Laboratory for Analytic Sciences](https://ncsu-las.org/about/). Former Fellow with the [Duke University Program in American Grand Strategy](http://ags.duke.edu/). Formerly with [New America's Cybersecurity Initiative](https://www.newamerica.org/cybersecurity-initiative/) and [The State of Security](https://tripwire.com/state-of-security). Contributing Writer at [The Startup](http://medium.com/swlh).
+Computer Science and Political Science student at Duke University. Fellow at [Interact](http://joininteract.com). Cyber Policy Researcher at the [Laboratory for Analytic Sciences](https://ncsu-las.org/about/). Co-Founder and Vice President of [Ethical Tech](https://ethical-tech.org/).
+
+Former Fellow with the [Duke University Program in American Grand Strategy](http://ags.duke.edu/). Formerly with [New America's Cybersecurity Initiative](https://www.newamerica.org/cybersecurity-initiative/) and [The State of Security](https://tripwire.com/state-of-security). Regularly writing for [Real Clear Defense](https://realcleardefense.com/), [The Startup](http://medium.com/swlh), and others.
+
+## Recent Publications
+
+
+
 
 You can use the [editor on GitHub](https://github.com/justinsherman/justinsherman.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
