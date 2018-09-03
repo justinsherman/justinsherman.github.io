@@ -8,7 +8,15 @@ Focused on cyber policy and technology ethics.
 
 ## Recent Publications
 
+"[Gaps in United States Federal Government IoT Security and Privacy Policies](https://www.tandfonline.com/doi/full/10.1080/23738871.2018.1514061)," _Journal of Cyber Policy_, August 30 2018, with Deb Crawford.
+
+"[The Promise of Privacy-Centric AI](https://medium.com/swlh/the-promise-of-privacy-centric-ai-566cf4ddd2ec)," _The Startup_, August 28 2018, with Ryan Sherman.
+
 "[The Bail System is Racist and Unjust. It Needs to Be Reformed](https://www.realclearpolicy.com/articles/2018/08/17/the_bail_system_is_racist_and_unjust_it_needs_to_be_reformed_110764.html)," _Real Clear Policy_, August 17 2018, with Leah Abrams.
+
+"[The Problem with Data Tracking by Default](https://medium.com/swlh/the-problem-with-data-tracking-by-default-8692725bd187)," _The Startup_, August 15 2018.
+
+"[Alert Fatigue is a Big Cybersecurity Problem](https://www.tripwire.com/state-of-security/security-data-protection/alert-fatigue-is-a-big-cybersecurity-problem/)," _The State of Security_, August 13 2018, with Nick Santora.
 
 "[The US Military Just Partially Banned Geolocatable Cellphones. That’s a Start](https://www.defenseone.com/ideas/2018/08/internet-things-national-security-problem/150301/?oref=d-river)," _Defense One_, August 6 2018.
 
