@@ -8,7 +8,7 @@ Recently featured in [_POLITICO_](https://www.politico.com/newsletters/morning-c
 
 ## Recent Publications
 
-"[The Real Takeaway from Mark Zuckerberg's 'Security Manifesto'](https://medium.com/swlh/the-real-takeaway-from-zuckerbergs-security-manifesto-4fe3dc200859)," _The Startup_, September 16 2018.
+"[The Real Takeaway from Zuckerberg's 'Security Manifesto'](https://medium.com/swlh/the-real-takeaway-from-zuckerbergs-security-manifesto-4fe3dc200859)," _The Startup_, September 16 2018.
 
 "[Encryption Debate Must Include Humanitarian Concerns](https://www.realclearpolicy.com/articles/2018/09/13/encryption_debate_must_include_humanitarian_concerns__110795.html)," _Real Clear Policy_, September 13 2018.
 
