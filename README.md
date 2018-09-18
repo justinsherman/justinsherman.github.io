@@ -8,6 +8,10 @@ Recently featured in [_POLITICO_](https://www.politico.com/newsletters/morning-c
 
 ## Recent Publications
 
+"[The Real Takeaway from Mark Zuckerberg's 'Security Manifesto'](https://medium.com/swlh/the-real-takeaway-from-zuckerbergs-security-manifesto-4fe3dc200859)," _The Startup_, September 16 2018.
+
+"[Encryption Debate Must Include Humanitarian Concerns](https://www.realclearpolicy.com/articles/2018/09/13/encryption_debate_must_include_humanitarian_concerns__110795.html)," _Real Clear Policy_, September 13 2018.
+
 "[You Know What You Can't Hack? Paper](https://medium.com/digital-diplomacy/you-know-what-you-cant-hack-paper-7cf371086a78)," _Digital Diplomacy_, September 10 2018.
 
 "[Confidentiality, Integrity, Authenticity: Are You Defending Against Cyber Attacks on the Integrity of Your Data?](https://www.realcleardefense.com/articles/2018/09/10/are_you_defending_against_cyber_attacks_on_the_integrity_of_your_data_113786.html)" _Real Clear Defense_, September 10 2018.
@@ -20,14 +24,6 @@ Recently featured in [_POLITICO_](https://www.politico.com/newsletters/morning-c
 
 "[The Problem with Data Tracking by Default](https://medium.com/swlh/the-problem-with-data-tracking-by-default-8692725bd187)," _The Startup_, August 15 2018.
 
-"[Alert Fatigue is a Big Cybersecurity Problem](https://www.tripwire.com/state-of-security/security-data-protection/alert-fatigue-is-a-big-cybersecurity-problem/)," _The State of Security_, August 13 2018, with Nick Santora.
-
-"[Why We Started Ethical Tech](https://ethical-tech.org/blog-feed/2018/8/9/why-we-started-ethical-tech)," Ethical Tech, August 9 2018, with Cassi Carley.
-
-"[The US Military Just Partially Banned Geolocatable Cellphones. That’s a Start](https://www.defenseone.com/ideas/2018/08/internet-things-national-security-problem/150301/?oref=d-river)," _Defense One_, August 6 2018.
-
-“[What Policymakers Need to Know About Quantum Computing](https://www.cfr.org/blog/what-policymakers-need-know-about-quantum-computing),” Council on Foreign Relations, July 31 2018, with Robert Morgus.
-
 ## Featured Work
 
 Ethical Tech recently became one of the first organizations in the country to train active judges on the machine learning processes and algorithmic bias behind so-called risk assessment algorithms (RAAs), prejudiced recidivism predictors used in state courts across the country to recommend bail amounts and prison sentences to judges. RAAs are amplifying existing inequalities under the veil of digital objectivity. Read more about our [Algorithms and Justice Project](https://ethical-tech.org/projects/).
@@ -36,4 +32,4 @@ Inés Jordan-Zoob and I wrote an essay for _SIGNAL_ Magazine, "[Hands-Off Weapon
 
 Robert Morgus and I created the first robust framework for liberal-democratic policymakers to understand the global Internet. The full paper, "[The Idealized Internet vs. Internet Realities (Version 1.0)](https://s3.amazonaws.com/newamericadotorg/documents/The_Idealized_Internet_vs._Internet_Realities_Version_1.0_2018-07-25_203930.pdf)," lays out our framework, analyzes competing international visions of the global Internet, and discusses the shortfalls and tensions in those visions. See our corresponding op-ed for [_New America Weekly_](https://www.newamerica.org/weekly/edition-213/tale-two-internets/) and [_Pacific Standard_](https://psmag.com/news/protecting-an-open-internet).
 
-Deb Crawford and I created the first comprehensive assessment of all U.S. federal IoT security and privacy policies. Read the paper in [_Journal of Cyber Policy_](https://www.tandfonline.com/doi/full/10.1080/23738871.2018.1514061) and our feature in [_POLITICO_](https://www.politico.com/newsletters/morning-cybersecurity/2018/09/04/whats-next-for-data-breach-legislation-329005).
+Deb Crawford and I created the first comprehensive assessment of all U.S. federal IoT security and privacy policies. Read the paper in [_Journal of Cyber Policy_](https://www.tandfonline.com/doi/full/10.1080/23738871.2018.1514061). Also see our feature in [_POLITICO_](https://www.politico.com/newsletters/morning-cybersecurity/2018/09/04/whats-next-for-data-breach-legislation-329005) and my attached op-ed for [_Defense One_](https://www.defenseone.com/ideas/2018/08/internet-things-national-security-problem/150301/?oref=d-river).
