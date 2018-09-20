@@ -14,8 +14,6 @@ Recently featured in [_POLITICO_](https://www.politico.com/newsletters/morning-c
 
 "[You Know What You Can't Hack? Paper](https://medium.com/digital-diplomacy/you-know-what-you-cant-hack-paper-7cf371086a78)," _Digital Diplomacy_, September 10 2018.
 
-"[Confidentiality, Integrity, Authenticity: Are You Defending Against Cyber Attacks on the Integrity of Your Data?](https://www.realcleardefense.com/articles/2018/09/10/are_you_defending_against_cyber_attacks_on_the_integrity_of_your_data_113786.html)" _Real Clear Defense_, September 10 2018.
-
 "[Gaps in United States Federal Government IoT Security and Privacy Policies](https://www.tandfonline.com/doi/full/10.1080/23738871.2018.1514061)," _Journal of Cyber Policy_, August 30 2018, with Deb Crawford.
 
 "[The Promise of Privacy-Centric AI](https://medium.com/swlh/the-promise-of-privacy-centric-ai-566cf4ddd2ec)," _The Startup_, August 28 2018, with Ryan Sherman.
