@@ -8,6 +8,10 @@ Recently featured in [_POLITICO_](https://www.politico.com/newsletters/morning-c
 
 ## Recent Publications
 
+"[Introducing the AGS Cyber Blog](https://ags.duke.edu/2018/10/03/cyber-blog-welcome/)," Duke Cyber Blog, October 3 2018.
+
+"[U.S. Federal IoT Policy: What You Need to Know'](https://www.tripwire.com/state-of-security/government/u-s-federal-iot-policy/)," _The State of Security_, September 18 2018.
+
 "[The Real Takeaway from Zuckerberg's 'Security Manifesto'](https://medium.com/swlh/the-real-takeaway-from-zuckerbergs-security-manifesto-4fe3dc200859)," _The Startup_, September 16 2018.
 
 "[Encryption Debate Must Include Humanitarian Concerns](https://www.realclearpolicy.com/articles/2018/09/13/encryption_debate_must_include_humanitarian_concerns__110795.html)," _Real Clear Policy_, September 13 2018.
@@ -18,13 +22,9 @@ Recently featured in [_POLITICO_](https://www.politico.com/newsletters/morning-c
 
 "[The Promise of Privacy-Centric AI](https://medium.com/swlh/the-promise-of-privacy-centric-ai-566cf4ddd2ec)," _The Startup_, August 28 2018, with Ryan Sherman.
 
-"[The Bail System is Racist and Unjust. It Needs to Be Reformed](https://www.realclearpolicy.com/articles/2018/08/17/the_bail_system_is_racist_and_unjust_it_needs_to_be_reformed_110764.html)," _Real Clear Policy_, August 17 2018, with Leah Abrams.
-
-"[The Problem with Data Tracking by Default](https://medium.com/swlh/the-problem-with-data-tracking-by-default-8692725bd187)," _The Startup_, August 15 2018.
-
 ## Featured Work
 
-Ethical Tech recently became one of the first organizations in the country to train active judges on the machine learning processes and algorithmic bias behind so-called risk assessment algorithms (RAAs), prejudiced recidivism predictors used in state courts across the country to recommend bail amounts and prison sentences to judges. RAAs are amplifying existing inequalities under the veil of digital objectivity. Read more about our [Algorithms and Justice Project](https://ethical-tech.org/projects/). Also check out our project to create the first open source "Ethical Tech 101" college class curriculum [here](https://ethical-tech.org/request-for-collaboration/).
+Ethical Tech recently developed one of the first training modules for judges to learn about the prejudiced recidivism predictors used to recommend bail amounts and prison sentences in state courts across the country. Read more about our [Algorithms and Justice Project](https://ethical-tech.org/projects/). Now, we're creating the first open source "Ethical Tech 101" college class curriculum [here](https://ethical-tech.org/request-for-collaboration/).
 
 Inés Jordan-Zoob and I wrote an essay for _SIGNAL_ Magazine, "[Hands-Off Weaponry Requires Hands-On Planning](https://afcea.org/content/hands-weaponry-requires-hands-planning)," which was nominated for their best contributed article of the year. We discuss the ethics of semi-autonomous and fully autonomous weaponry in the global context.
 
